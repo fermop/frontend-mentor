@@ -166,7 +166,7 @@ export const frontendMentorProjects = [
   },
   {
     title: "Time tracking dashboard",
-    link: "https://fermop-time-tracking-dashbaord-react-ts.vercel.app/",
+    link: "https://fermop-time-tracking-dashboard-react-ts.vercel.app/",
     thumbnail: "./images/time-tracking-dashboard.webp",
   },
 ];
