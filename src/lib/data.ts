@@ -164,4 +164,9 @@ export const frontendMentorProjects = [
     link: "https://fermop-notifications-page-nextjs.vercel.app/",
     thumbnail: "./images/notifications-page-nextjs.webp",
   },
+  {
+    title: "Time tracking dashboard",
+    link: "https://fermop-time-tracking-dashbaord-react-ts.vercel.app/",
+    thumbnail: "./images/time-tracking-dashboard.webp",
+  },
 ];
